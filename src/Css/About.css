@@ -1,0 +1,154 @@
+.about-we-collect-data {
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 200px;
+  }
+  
+  .about-we-collect-data-image {
+    margin-right: 20px;
+    height: 600px;
+    width: auto;
+  }
+  
+  .about-we-collect-data-content {
+    flex: 1;
+  }
+  
+  .about-we-collect-data h1 {
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 1.1;
+    max-height: 6em;
+    overflow: hidden;
+  }
+  
+  .about-we-collect-data p {
+    max-height: 6em;
+    overflow: hidden;
+  }
+  
+  .about-we-collect-data a {
+    display: inline-block;
+    background-color: red;
+    font-size: 24px;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  
+  .about-we-collect-data .btn-primary {
+    background-color: red;
+    font-size: 24px;
+  }
+  
+  .about-we-collect-data img {
+    order: -1; 
+    height: 600px;
+    width: auto;
+  }
+  
+  .about-we-collect-data a {
+    display: inline-block;
+    background-color: red;
+    font-size: 24px;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  
+  .card {
+    width: 350px;
+    height: 400px;
+    margin-right: 20px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .bold-title {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+  }
+  
+  .awesome-stuff-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .awesome-stuff-item {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .gradient-card {
+    background: linear-gradient(to right, red, purple);
+    padding: 10px;
+    margin-right: 450px;
+    margin-left: 450px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  
+  .bold-titleHave {
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    width: 400px;
+    font-weight: bolder;
+  }
+  
+  .descHave {
+    color: white;
+    width: 700px;
+    font-size: 14px;
+  }
+
+  .sub-block-container {
+    display: flex;
+  }
+  
+  .sub-block {
+    flex: 1;
+    margin: 10px;
+    text-align: left;
+  }
+  
+  .sub-block h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  
+  .sub-block a {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none; 
+    font-size: 40px;
+    color: black;
+  }
+  
+  .sub-block img {
+    width: 100%;
+    height: auto;
+  }
+  
